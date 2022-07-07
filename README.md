@@ -10,3 +10,4 @@ Finland and Ukraine did not contribute to this week's data.
 Ukraine, Germany (Berlin) and Germany (Hesse) were not included in the pooled data.
 
 https://euromomo.eu/graphs-and-maps/
+![deaths eu Schermafbeelding 2022-07-07 225351](https://user-images.githubusercontent.com/2007624/177870459-2d988a70-1ee5-4e6d-8dde-4f1a3779ff7b.png)
